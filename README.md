@@ -25,3 +25,5 @@
 <br>
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos-r-goularte&show_icons=true&theme=dark)
+
+![snake gif](https://github.com/carlos-r-goularte/carlos-r-goularte/blob/output/github-contribution-grid-snake.svg)
